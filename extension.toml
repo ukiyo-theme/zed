@@ -1,7 +1,7 @@
-id = "ukiyo-theme"
-name = "Ukiyo"
+id = "karazuri"
+name = "karazuri"
 version = "0.1.0"
 schema_version = 1
-authors = ["ukiyo-theme"]
+authors = ["karazuri"]
 description = "A readable color theme with dark, darker and mid-light variants, based on Kanagawa"
-repository = "https://github.com/ukiyo-theme/zed"
+repository = "https://github.com/karazuri/zed"
